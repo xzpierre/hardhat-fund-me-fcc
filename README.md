@@ -44,11 +44,11 @@ term
 
 That is so funny! :joy:
 
-I need to highlight these ==very important words==.
+I need to highlight these <mark>very important word</mark>.
 
-H~2~O
+H<sub>2</sub>O
 
-X^2^
+X<sup>2</sup>
 
 ![ambrpay 1e29f961](https://github.com/xzpierre/hardhat-fund-me-fcc/assets/79710037/6e7861d0-fb23-4201-9c1d-7850cc963bc8)
 ![favicon](https://github.com/xzpierre/hardhat-fund-me-fcc/assets/79710037/b1f105d8-2302-4463-85e0-e500b772fcd3)
